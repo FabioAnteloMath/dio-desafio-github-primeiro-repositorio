@@ -1,0 +1,3 @@
+Quando resolvi migrar minha carreira para a área de tecnologia, o primeiro contato foi com a  computação em nuvem.
+Sem background nenhum, abri minha cabeça para novos aprendizados e com muita dedicação consegui minha primeira certificação plataforma (AWS Cloud Practitioner) com menos de 1 mês de estudo.
+O intuito deste texto é contar um pouco do início da minha jornada e encorajar profissionais novos (assim como eu) a se dedicar e não ter medo de enfrentar os desafios provenientes da nossa profissão.
